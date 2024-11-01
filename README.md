@@ -63,11 +63,9 @@ The Madhav Store Ecommerce Sales Dashboard provides the following insights:
 6. **Customer Insights**:
    - High-value customers like Harivansh and Madhav are identified as top contributors to profit. Targeting loyalty programs towards such customers could be beneficial.
 
-## Publishing
 
-The report was then published to Power BI Service for easy sharing and collaboration among stakeholders.
 
 
 ## Report Snapshot (Power BI Desktop)
-https://github.com/AyazRahman504/madhavstore-ecommerce-data-report/blob/main/Assets/report%20page.png?raw=true
+![Report Snapshot](https://github.com/AyazRahman504/madhavstore-ecommerce-data-report/blob/main/Assets/report%20page.png?raw=true)
 
