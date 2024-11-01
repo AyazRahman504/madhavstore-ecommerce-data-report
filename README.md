@@ -69,4 +69,5 @@ The report was then published to Power BI Service for easy sharing and collabora
 
 
 ## Report Snapshot (Power BI Desktop)
+https://github.com/AyazRahman504/madhavstore-ecommerce-data-report/blob/main/Assets/report%20page.png?raw=true
 
