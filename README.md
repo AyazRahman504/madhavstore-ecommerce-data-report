@@ -1,6 +1,6 @@
 # Madhav Store Ecommerce Sales Dashboard
 
-### Dashboard Link: https://app.powerbi.com/groups/me/reports/b5121976-906a-443a-a1bd-e9bab27c2af4?ctid=20f04eaf-31a8-4701-b965-9be849057364&pbi_source=linkShare
+### [Dashboard Link](https://app.powerbi.com/groups/me/reports/b5121976-906a-443a-a1bd-e9bab27c2af4?ctid=20f04eaf-31a8-4701-b965-9be849057364&pbi_source=linkShare)
 
 ## Problem Statement
 
